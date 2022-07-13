@@ -69,7 +69,9 @@ Este teorema es eficiente en la aplicación en el campo de la comunicación, uti
 
 Siguiendo el mismo proceso, armamos el circuito físico:
 
+![image](https://user-images.githubusercontent.com/105565683/178623281-8dccbeec-1347-4201-b3da-d9c030d338e1.png)
 
+![image](https://user-images.githubusercontent.com/105565683/178623303-00968096-68e3-42e3-9609-8db889dd5653.png)
 
 ### TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 
@@ -149,7 +151,7 @@ Para el circuito físico se utilizaron baterías de 9 V, por ende, existirá una
 
 Parámetros Eléctricos del circuito.
 
-
+![image](https://user-images.githubusercontent.com/105565683/178623203-891317a4-bf9f-42ad-9805-135cb79bf40d.png)
 
 ### RESULTADOS
 
@@ -159,7 +161,7 @@ En cuanto a los resultados experimentales si existe un margen de diferencia cons
 
 ## VIDEO
 
-
+https://www.youtube.com/watch?v=eSzFEyEyTD8
 
 ## CONCLUSIONES
 
