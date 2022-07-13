@@ -172,4 +172,4 @@ https://www.youtube.com/watch?v=eSzFEyEyTD8
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
 
-Roy, S. (2022). lambdageeks.
+Roy, S. (2022). lambdageeks. Obtenido de https://es.lambdageeks.com/maximum-power-transfer-theorem/
